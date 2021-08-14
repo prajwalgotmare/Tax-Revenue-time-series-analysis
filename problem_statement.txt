@@ -1,0 +1,2 @@
+The data of Tax Revenue collected by the city corporation from 1991 to 2005 is available in the xlsx format. From the given data we have to predict the Tax Revenue for 12 months of 2006 and 2007.
+
