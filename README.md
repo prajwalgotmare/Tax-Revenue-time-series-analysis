@@ -2,7 +2,7 @@
 
 This project aims to perform a tax revenue forecasting task using the data available till December 2005. The goal is to predict the tax revenue for the next 12 months from 2006 to 2007.
 
-![ta](https://www.researchgate.net/profile/Jackie-Urrutia/publication/280098614/figure/fig1/AS:391486140108811@1470348977194/Graph-of-Actual-and-Forecasted-Values-of-Income-Tax-Revenue-2014-2020.png)
+![tax](https://files.taxfoundation.org/20190729132330/Local-Income-Taxes-in-2019-Local-Income-Tax-money-e1564421040859.jpeg)
 
 ## Overview
 
