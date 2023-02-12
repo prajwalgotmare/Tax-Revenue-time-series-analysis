@@ -2,7 +2,7 @@
 
 This project aims to perform a tax revenue forecasting task using the data available till December 2005. The goal is to predict the tax revenue for the next 12 months from 2006 to 2007.
 
-![Bank Note Image](https://www.example.com/bank_note_image.jpg](https://c.ndtvimg.com/2019-10/uep052lo_fixed-deposit-fd-money-rupee-investment-unsplash_625x300_10_October_19.jpg)
+![ta](https://www.researchgate.net/profile/Jackie-Urrutia/publication/280098614/figure/fig1/AS:391486140108811@1470348977194/Graph-of-Actual-and-Forecasted-Values-of-Income-Tax-Revenue-2014-2020.png)
 
 ## Overview
 
