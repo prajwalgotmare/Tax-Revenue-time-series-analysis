@@ -2,7 +2,7 @@
 
 This project aims to perform a tax revenue forecasting task using the data available till December 2005. The goal is to predict the tax revenue for the next 12 months from 2006 to 2007.
 
-! [tax] (https://c.ndtvimg.com/2019-10/uep052lo_fixed-deposit-fd-money-rupee-investment-unsplash_625x300_10_October_19.jpg)
+![Bank Note Image](https://www.example.com/bank_note_image.jpg](https://c.ndtvimg.com/2019-10/uep052lo_fixed-deposit-fd-money-rupee-investment-unsplash_625x300_10_October_19.jpg)
 
 ## Overview
 
