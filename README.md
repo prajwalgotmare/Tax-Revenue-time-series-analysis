@@ -1,4 +1,4 @@
-#Tax Revenue Forecasting
+# Tax Revenue Forecasting
 
 This project aims to perform a tax revenue forecasting task using the data available till December 2005. The goal is to predict the tax revenue for the next 12 months from 2006 to 2007.
 
